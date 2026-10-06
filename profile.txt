@@ -1,2 +1,3 @@
 ﻿Name: Abhishek Singh
 City: New Delhi
+Skills: Python, SQL
